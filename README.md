@@ -58,6 +58,9 @@ Example:
 ## Results
 The tool classifies sentiments into categories ranging from Very Negative to Very Positive and provides visual insights into the sentiment distribution of the analyzed texts.
 
+## Final Output
+![Screenshot 2024-07-30 100401](https://github.com/user-attachments/assets/cb090b24-3cb2-4767-b6e4-64dee9bafe7c)
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss changes.
 
