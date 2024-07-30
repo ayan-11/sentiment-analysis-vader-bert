@@ -49,6 +49,11 @@ The project uses an Excel file (`Output.xlsx`) with a column named 'Content' con
 
 ## Visualization
 The results are visualized using pie charts and bar plots to show the distribution of sentiments as classified by both VADER and BERT models.
+Example:
+![Screenshot 2024-07-30 100101](https://github.com/user-attachments/assets/38720a2a-063a-4018-a6f6-749167818d49)
+![Screenshot 2024-07-30 100247](https://github.com/user-attachments/assets/9f7d1529-5d52-4ecc-a280-c1990eea1382)
+![Screenshot 2024-07-30 100140](https://github.com/user-attachments/assets/6e6850fb-0cd5-4d78-b4b9-de1d333c350d)
+
 
 ## Results
 The tool classifies sentiments into categories ranging from Very Negative to Very Positive and provides visual insights into the sentiment distribution of the analyzed texts.
