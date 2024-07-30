@@ -1,7 +1,4 @@
 # sentiment-analysis-vader-bert
-Sure! Here’s a detailed README file for your GitHub repository:
-
----
 
 # Sentiment Analysis with VADER and BERT
 
